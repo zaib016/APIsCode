@@ -2,6 +2,7 @@
 
 namespace OnlineRetail.Models
 {
+    //Dto stand for Data tarnsfar object
     public class CategoriesDto
     {
         public required string CategoryName { get; set; }
